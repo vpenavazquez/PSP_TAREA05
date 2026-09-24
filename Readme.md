@@ -20,8 +20,6 @@
 
 ---
 
-## Solución a un error durante el desarrollo
-
 ## Error encontrado durante el desarrollo
 
 * **Descripción del problema:** Al pasar del Nivel 1 al Nivel 4, el programa no podía detectar si el número introducido era primo o no, a pesar de que el comando `factor` se ejecutaba bien en la consola.
