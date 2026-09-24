@@ -16,8 +16,7 @@
 | **hola** | `factor: 'hola' is not a valid positive integer` | `1` |
 | **-5** | `factor: '-5' is not a valid positive integer` | `1` |
 
-![captura del proceso ej1.png](../capturas/captura%20del%20proceso%20ej1.png)
-
+!![captura del proceso ej1.png](capturas/captura%20del%20proceso%20ej1.png)
 
 ---
 
